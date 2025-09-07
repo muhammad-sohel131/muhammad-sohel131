@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">I am a CSE student at Green University of Bangladesh, passionate about software development and competitive programming. I secured 3rd place in an Intra University Programming Contest and received the Excellence Academic Award twice. With expertise in <b> MongoDB, SQL, Express.js, React.js, Next JS, and Node.js </b>b>, I have developed projects like LoveLink, Group Study, and Phonity. I am also familiar with Java, python, and C. Committed to full-stack development, I continuously refine my skills while preparing for a career in software engineering.</p>
+<p align="left">Motivated Software Developer with strong foundations in C++, Java, and JavaScript, along with solid problem-solving skills in data structures and algorithms. Experienced in building real-world projects using the MERN stack, including user authentication, API integration, and database management. Passionate about writing clean, efficient code and eager to contribute to developing scalable, impactful software solutions while continuously expanding technical expertise.</p>
 
 ###
 
-<p align="left">🚀 Current Activities<br><br>- 🔥 Exploring **Next.js** to enhance my web development skills.  <br>- 💻 Developing a **Smart Learning Management System (BuildToLearn)** as my final-year project.  <br>- 📡 Working on a ** Phonity (Group Project)**  <br>- 🔐 Researching  **Artificial Intelligence** for Implementing into Web Projects</p>
+<p align="left">🚀 Current Activities<br><br>- 🔥 Exploring Next.js to enhance my web development skills.  <br>- 💻 Developing a Smart Learning Management System (BuildToLearn) as my final-year project.  <br>- 📡 Working on a Phonity (Group Project)  <br>- 🔐 Researching  Artificial Intelligence for Implementing into Web Projects</p>
 
 ###
 
